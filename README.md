@@ -1,5 +1,5 @@
 # Description
-SFTP server for armhf
+Docker container with SFTP server for ARM
 
 # Customization
 Enter your username and password in start.sh (2 and 4 lines)
